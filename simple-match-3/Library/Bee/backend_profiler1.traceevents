@@ -1,0 +1,888 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1653474004542251, "dur":1800, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474004544060, "dur":88, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1653474004544194, "dur":26, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1653474004544222, "dur":637, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1653474004544883, "dur":979, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474004545862, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071782, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071791, "dur":66, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071857, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071863, "dur":85, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071948, "dur":38, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005071986, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005072001, "dur":1823, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005073825, "dur":97, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005073922, "dur":228, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074150, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074165, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074169, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074178, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074181, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074188, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074191, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074213, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074217, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074226, "dur":13, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074239, "dur":24, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074263, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074269, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074290, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074295, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074305, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074309, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074318, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074322, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074330, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074333, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074342, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074346, "dur":29, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074375, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074450, "dur":5, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005074473, "dur":3452, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1653474004544807, "dur":1078, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004545885, "dur":4308, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004550199, "dur":35198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1653474004585411, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004654250, "dur":2051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1653474004656349, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VirtualTexturingModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004656486, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004656724, "dur":6275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VirtualTexturingModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004663042, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VehiclesModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004663159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004663167, "dur":7174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VehiclesModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004670372, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004670484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004670492, "dur":9083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004679613, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004679718, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004679726, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004682105, "dur":107606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UmbraModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004789717, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004789730, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UmbraModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004792159, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004792676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004792685, "dur":3014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004795763, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterInputModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004795912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004795921, "dur":2284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterInputModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004798244, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004798366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004798373, "dur":3277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004801692, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004801861, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004801870, "dur":3975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004805896, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004806065, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004806077, "dur":4187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004810310, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004810542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004810553, "dur":8641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004819239, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004819396, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004819405, "dur":11798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004831253, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653474004831402, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004831408, "dur":10440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653474004841892, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004842034, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004842045, "dur":23484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Analytics.pdb" }}
+,{ "pid":12345, "tid":1, "ts":1653474004865569, "dur":66886, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653474004932459, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004932467, "dur":5677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653474004938187, "dur":10171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1653474004948364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653474004948377, "dur":1033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1653474004949446, "dur":120607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004544885, "dur":1024, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004545910, "dur":4313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004550229, "dur":16454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1653474004566688, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004567093, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1653474004568067, "dur":259003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004827079, "dur":3257, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004830431, "dur":7469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004837954, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1653474004838138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004838180, "dur":26880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Configuration.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1653474004865110, "dur":457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004865571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004865582, "dur":20911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004886552, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1653474004886744, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004886758, "dur":18866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1653474004905672, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004905944, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004905955, "dur":8391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004914384, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004914528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004914536, "dur":8738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004923340, "dur":1301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004924645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004924653, "dur":4829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004929524, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004929811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004929819, "dur":5009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004934870, "dur":18095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004952971, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653474004953169, "dur":1273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653474004954492, "dur":115705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004544793, "dur":1083, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004545879, "dur":4308, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004550199, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1653474004550234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004551330, "dur":325, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1653474004551659, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1653474004551699, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004552173, "dur":10632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1653474004562809, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1653474004562951, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653474004563003, "dur":408130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1653474004971183, "dur":99143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004544845, "dur":1055, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004545900, "dur":4295, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004550222, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1653474004550457, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004562418, "dur":93461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1653474004655931, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004656170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004656544, "dur":5752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004662349, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004662496, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004662505, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004664058, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004664149, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004664154, "dur":7626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004671821, "dur":107715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004779542, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004779564, "dur":1530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004781134, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004781250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004781256, "dur":831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004782110, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GameCenterModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004782193, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004782199, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GameCenterModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004783004, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004783116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004783139, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004783991, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DSPGraphModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004784110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004784117, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DSPGraphModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004785094, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004785243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004785252, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004786129, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004786347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004786356, "dur":1055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004787452, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DirectorModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004787585, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004787596, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DirectorModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004788661, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004788816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004788826, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004789875, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CrashReportingModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004790008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004790018, "dur":3118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CrashReportingModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004793176, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterRendererModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004793295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004793303, "dur":3436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterRendererModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004796797, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004796943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004796951, "dur":3788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004800804, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AnimationModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004801003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004801011, "dur":6393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AnimationModule.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004807472, "dur":583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004808060, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004808071, "dur":10021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004818140, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004818289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004818298, "dur":15377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004833711, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004833828, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004833836, "dur":30458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004864348, "dur":708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004865062, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004865075, "dur":32116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004897235, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004897399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004897408, "dur":14479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004911936, "dur":1249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004913189, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004913199, "dur":10699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653474004924829, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004925205, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004925213, "dur":7130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Newtonsoft.Json.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004932384, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp-firstpass.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004932530, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004932537, "dur":6835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp-firstpass.pdb" }}
+,{ "pid":12345, "tid":4, "ts":1653474004939410, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1653474004939454, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653474004939460, "dur":7103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1653474004946607, "dur":124748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004544926, "dur":992, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004545919, "dur":4291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004550216, "dur":19755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1653474004569976, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004570003, "dur":1484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1653474004571528, "dur":82251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3.exe" }}
+,{ "pid":12345, "tid":5, "ts":1653474004653787, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004653799, "dur":2651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3.exe" }}
+,{ "pid":12345, "tid":5, "ts":1653474004656477, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004656583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004656799, "dur":6470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004663300, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004663427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004663435, "dur":7612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004671097, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004671257, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004671264, "dur":9156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004680468, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004680577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004680582, "dur":8793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004689428, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004689616, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004689627, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004691472, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TLSModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004691579, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004691585, "dur":1462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TLSModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004693073, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004693160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004693168, "dur":5472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004698700, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004698856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004698865, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004700461, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004700613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004700621, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004702839, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004702990, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004703000, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004704714, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004704841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004704847, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004705779, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SharedInternalsModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004705906, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004705913, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SharedInternalsModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004706994, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004707086, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004707092, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004707893, "dur":53205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ProfilerModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004761106, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004761121, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ProfilerModule.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004762487, "dur":36570, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004799062, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004799071, "dur":3956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004803086, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004803277, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004803287, "dur":7205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004810539, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004811113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004811121, "dur":31267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004842426, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004842540, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004842550, "dur":44679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004887274, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004887429, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004887437, "dur":25140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004912620, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004912745, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004912754, "dur":3516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004916319, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004916546, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004916557, "dur":6820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004923419, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004923669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004923678, "dur":9047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653474004932771, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004933325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004934347, "dur":3297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Plugins/x86_64/lib_burst_generated.pdb" }}
+,{ "pid":12345, "tid":5, "ts":1653474004937757, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1653474004937815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653474004937822, "dur":5912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1653474004943800, "dur":127733, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004544960, "dur":968, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004545929, "dur":4309, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004550240, "dur":1992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1653474004552238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004552612, "dur":14712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1653474004567363, "dur":112813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004680179, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004680437, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004682178, "dur":81160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004763343, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004763353, "dur":976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004764377, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PhysicsModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004764529, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004764539, "dur":927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PhysicsModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004765507, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004765726, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004765735, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004766736, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.Physics2DModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004766888, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004766898, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.Physics2DModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004768092, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004768279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004768286, "dur":960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004769272, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004769394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004769402, "dur":1173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004770609, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ParticleSystemModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004770737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004770744, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ParticleSystemModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004771816, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.NVIDIAModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004771946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004771954, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.NVIDIAModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004773236, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004773336, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004773344, "dur":1132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004774510, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.JSONSerializeModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004774624, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004774631, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.JSONSerializeModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004775806, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004775927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004775934, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004777600, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.IMGUIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004777778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004777786, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.IMGUIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004779571, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004779747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004779755, "dur":1359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004781139, "dur":14595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004795740, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004795758, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GIModule.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004797721, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004797901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004797910, "dur":2104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004800049, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004800179, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004800212, "dur":3495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004804011, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004804208, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004804218, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004809827, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004810047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004810058, "dur":4577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004814690, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004814839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004814848, "dur":16320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004831212, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004831364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004831372, "dur":9159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Internal.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004840649, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004840867, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004840880, "dur":28216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004869142, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004869295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004869304, "dur":18514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004887857, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004888009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004888018, "dur":14644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":6, "ts":1653474004902706, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004902864, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004902904, "dur":5384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004908336, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004908508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004908521, "dur":4954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004913518, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004913768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004913776, "dur":8608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004922425, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004922582, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004922593, "dur":4357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004927000, "dur":5001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004932008, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004932021, "dur":8120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653474004940184, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1653474004940241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653474004940248, "dur":4025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1653474004944309, "dur":125717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004544995, "dur":941, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004545936, "dur":4279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004550216, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1653474004550455, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004562165, "dur":93534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1653474004655748, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004655871, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004656489, "dur":5448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004661988, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VideoModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004662113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004662125, "dur":1915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VideoModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004664064, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004664164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004664169, "dur":7729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004671925, "dur":128493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004800422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004800431, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004803306, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AccessibilityModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004803446, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004803458, "dur":5974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AccessibilityModule.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004809485, "dur":771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004810260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004810270, "dur":5316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004815630, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004815767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004815776, "dur":15790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Scheduler.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004831600, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004831727, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004831734, "dur":30907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.Internal.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004862687, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004862962, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004862973, "dur":6089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004869101, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004869246, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004869257, "dur":18599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
+,{ "pid":12345, "tid":7, "ts":1653474004887895, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004888027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004888034, "dur":17660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004905743, "dur":4422, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004910170, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004910182, "dur":6957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004917177, "dur":607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004917788, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004917798, "dur":7846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004925683, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004926471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004926479, "dur":5647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004932166, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004932308, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004932316, "dur":5162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653474004937523, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1653474004937569, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004939027, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1653474004940303, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1653474004940339, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653474004940344, "dur":3767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1653474004944156, "dur":125871, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653474004545032, "dur":912, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653474004545944, "dur":4269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653474004550216, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1653474004550432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653474004552289, "dur":399626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1653474004951963, "dur":118101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1653474004545070, "dur":881, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1653474004545952, "dur":4278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1653474004550231, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1653474004550462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1653474004562669, "dur":402176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1653474004964895, "dur":105135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004545126, "dur":838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004545964, "dur":4254, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004550224, "dur":15649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1653474004565898, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004565920, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1653474004566996, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1653474004567121, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004567129, "dur":89012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1653474004656171, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004656307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004656577, "dur":6069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004662673, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004662774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004662782, "dur":1875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004664681, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004664773, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004664778, "dur":7342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004672159, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityCurlModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004672328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004672336, "dur":8761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityCurlModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004681144, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UNETModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004681285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004681292, "dur":8308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UNETModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004689644, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004689785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004689793, "dur":1480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004691299, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004691565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004691570, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004693018, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004693136, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004693141, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004698892, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004699123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004699132, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004701231, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubsystemsModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004701355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004701363, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubsystemsModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004703602, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004703745, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004703753, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004704888, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteMaskModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004704972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004704977, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteMaskModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004706139, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004706296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004706305, "dur":933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004707264, "dur":68465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004775735, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004775745, "dur":1761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004777554, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004777696, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004777703, "dur":1848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004779596, "dur":13857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004793458, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004793469, "dur":2790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004796299, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004796431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004796442, "dur":2029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004798510, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004798651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004798659, "dur":2998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004801699, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004801904, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004801912, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004806324, "dur":437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004806766, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004806775, "dur":5426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004812245, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004812394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004812402, "dur":8253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Threading.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004820699, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004820830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004820840, "dur":10788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Networking.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004831853, "dur":686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004832543, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004832552, "dur":13440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004846056, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004846188, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004846198, "dur":27341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004873615, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004873850, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004873862, "dur":24676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004898582, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004898741, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004898755, "dur":12384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":10, "ts":1653474004911183, "dur":424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004911610, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004911620, "dur":6321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004917989, "dur":2609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004920606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004920617, "dur":6241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004926913, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004927135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004927143, "dur":5556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004932740, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004932919, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004932928, "dur":5292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":10, "ts":1653474004938263, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1653474004938313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1653474004938320, "dur":5386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1653474004943742, "dur":126286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004545174, "dur":813, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004545988, "dur":4243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004550232, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1653474004550470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004563291, "dur":92365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1653474004655708, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1653474004655817, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004656278, "dur":151133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1653474004807490, "dur":649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004808143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004808151, "dur":5960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004814156, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004814289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004814298, "dur":16916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004831257, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004831387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004831394, "dur":13485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004844922, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004845061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004845142, "dur":26238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004871422, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004871615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004871624, "dur":24914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004896587, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004896753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004896766, "dur":16170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004912984, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004913214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004913221, "dur":3712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004916969, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004917304, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004917314, "dur":6413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004923767, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004924129, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004924139, "dur":5163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1653474004929351, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/DOTween.dll.mdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004929439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004929448, "dur":13028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/DOTween.dll.mdb" }}
+,{ "pid":12345, "tid":11, "ts":1653474004942519, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1653474004942782, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1653474004942907, "dur":3445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1653474004946388, "dur":123716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004545218, "dur":781, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004545999, "dur":4221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004550222, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1653474004550503, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004563545, "dur":92714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1653474004656293, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004656382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004656689, "dur":6354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VRModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004663085, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004663212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004663217, "dur":7514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004670778, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004671049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004671057, "dur":8995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004680090, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004680199, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004680205, "dur":9203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004689460, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsNativeModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004689617, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004689627, "dur":1457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsNativeModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004691131, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004691322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004691328, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004692380, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TilemapModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004692514, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004692522, "dur":1332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TilemapModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004693877, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004694006, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004694011, "dur":5356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004699403, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004699514, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004699522, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004701516, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004701678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004701685, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004703991, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteShapeModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004704123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004704154, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteShapeModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004705203, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004705295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004705300, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004706351, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004706476, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004706486, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004707536, "dur":83580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004791121, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004791131, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004793999, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004794138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004794146, "dur":3408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004797609, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004797956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004797963, "dur":3619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":12, "ts":1653474004801635, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004801930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004801937, "dur":9748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004811903, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004812760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004812821, "dur":19896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004832759, "dur":405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004833168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004833175, "dur":33933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004867365, "dur":104146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004971516, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1653474004971529, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":12, "ts":1653474004972577, "dur":98575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004545263, "dur":747, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004546010, "dur":4227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004550238, "dur":17140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1653474004567382, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004567401, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1653474004568523, "dur":31563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004600095, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004600111, "dur":55949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004656103, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004656243, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004656605, "dur":6074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004662727, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004662898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004662905, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004665001, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004665130, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004665135, "dur":7458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004672634, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004672736, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004672755, "dur":8804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004681610, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004681794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004681802, "dur":8371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004690210, "dur":616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004690830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004690837, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004692335, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004692483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004692490, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004693664, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004693777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004693784, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004699511, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004699614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004699619, "dur":1969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004701623, "dur":73399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubstanceModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004775028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004775036, "dur":1834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubstanceModule.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004776909, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004777061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004777069, "dur":1329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004778457, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004778757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004778764, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004780513, "dur":26985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004807502, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004807514, "dur":9841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004817399, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004817578, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004817587, "dur":15560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Registration.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004833187, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004833325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004833333, "dur":75049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Device.pdb" }}
+,{ "pid":12345, "tid":13, "ts":1653474004908437, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004908759, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004908767, "dur":12834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004921646, "dur":3479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004925130, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004925139, "dur":10462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1653474004935645, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1653474004935788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004936028, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1653474004937588, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1653474004937635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1653474004937642, "dur":8689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1653474004946369, "dur":125115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004545303, "dur":719, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004546022, "dur":4267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004550290, "dur":15345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1653474004565641, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004565664, "dur":1517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1653474004567227, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1653474004567330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004567338, "dur":3649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1653474004571033, "dur":217257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1653474004788296, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004788307, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1653474004790409, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004790541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004790550, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004792519, "dur":1046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004793569, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004793578, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004796660, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004796802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004796811, "dur":2047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004798912, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ARModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004799044, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004799053, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ARModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004802036, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004802167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004802174, "dur":3947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":14, "ts":1653474004806170, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004806323, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004806333, "dur":3981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004810383, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004810646, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004810655, "dur":6678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004817383, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004817523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004817533, "dur":13608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004831184, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004831311, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004831321, "dur":11551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004842911, "dur":946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004843860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004843869, "dur":24649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004868564, "dur":93049, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004961621, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1653474004961636, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":14, "ts":1653474004963109, "dur":107155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004545357, "dur":673, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004546030, "dur":4176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004550209, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1653474004550434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004561353, "dur":94889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1653474004656294, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004656428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004656748, "dur":6425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004663202, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004663290, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004663295, "dur":7514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004670854, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004670987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004670996, "dur":9148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004680177, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004680285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004680293, "dur":8726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004689082, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004689267, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004689289, "dur":1197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004690521, "dur":1283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004691808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004691815, "dur":6305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004698176, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004698485, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004698494, "dur":2121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004700645, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004700799, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004700820, "dur":1893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004702752, "dur":64582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004767338, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004767349, "dur":1102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004768487, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PerformanceReportingModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004768619, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004768627, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.PerformanceReportingModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004769561, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004769667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004769732, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004770831, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004771088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004771096, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004772880, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004773049, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004773062, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004774278, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004774440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004774473, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004775508, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004775650, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004775658, "dur":1649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004777354, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputLegacyModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004777506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004777514, "dur":1656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.InputLegacyModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004779211, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ImageConversionModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004779332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004779340, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.ImageConversionModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004780777, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GridModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004780894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004780902, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GridModule.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004781943, "dur":26392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004808339, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004808349, "dur":5927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004814322, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004814478, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004814488, "dur":17534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Telemetry.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004832068, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004832380, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004832388, "dur":10311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004842758, "dur":635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004843397, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004843407, "dur":23079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004866529, "dur":57326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004923860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004923869, "dur":5034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004928951, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004929317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004929327, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1653474004932114, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004932258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004932267, "dur":5491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":15, "ts":1653474004937802, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1653474004937935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004937968, "dur":5399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1653474004943414, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/boot.config" }}
+,{ "pid":12345, "tid":15, "ts":1653474004943559, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1653474004943595, "dur":3474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/Simple-Match-3_Data/boot.config" }}
+,{ "pid":12345, "tid":15, "ts":1653474004947105, "dur":122951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1653474004545406, "dur":633, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1653474004546039, "dur":4160, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1653474004550200, "dur":19180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1653474004569385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1653474004569406, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1653474004570406, "dur":454730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/dutie/Documents/.unityproject/.beta/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":16, "ts":1653474005025143, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1653474005025155, "dur":44710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/dutie/Documents/.unityproject/.beta/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":16, "ts":1653474005069926, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":16, "ts":1653474005069932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653474005080349, "dur":3996, "ph":"X", "name": "ProfilerWriteOutput" }
+,
